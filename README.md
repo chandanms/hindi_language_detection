@@ -12,6 +12,9 @@ Guide to use :
   
   text_prediction.py - Given a segment of a image, it predicts based on the training given ion the previous script.
   
+  data.zip - The datas scraped from various preprocessed image. It is divided into train and validation. The data is limited due to 
+  poor computational ability. It is advised to scrape more naturalimages and give it to preprocessing. 
+  
 To summarize, the image given must first be preprocessed which gives various segmented images which is then given to text_prediction.py script which predicts if the segment is hindi(1) or not(0).
 
 Please see : Due to lack of computational power of my age old laptop, I could not train for many images which resulted in fall of accuracy.  
