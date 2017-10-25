@@ -17,7 +17,7 @@ Guide to use :
   
 To summarize, the image given must first be preprocessed which gives various segmented images which is then given to text_prediction.py script which predicts if the segment is hindi(1) or not(0).
 
-Please see : Due to lack of computational power of my age old laptop, I could not train for many images which resulted in fall of accuracy.  
+Please see : Due to lack of computational power of my age old laptop, I could not train for many images which resulted in fall of accuracy. Also, clearer the image, better the results.
   
   
   
